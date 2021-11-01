@@ -6,7 +6,7 @@ const Packages = () => {
   const [packagesData, setPackagesData] = useState([]);
 
   useEffect(() => {
-    fetch(`http://localhost:5000/packages`)
+    fetch(`https://safe-refuge-88046.herokuapp.com/packages`)
       .then((res) => {
         if (!res.ok) {
           throw new Error(res.statusText);

@@ -13,7 +13,7 @@ const PlaceOrder = () => {
   // console.log(id);
 
   useEffect(() => {
-    fetch(`http://localhost:5000/packages/${id}`)
+    fetch(`https://safe-refuge-88046.herokuapp.com/packages/${id}`)
       .then((res) => {
         if (!res.ok) {
           throw new Error(res.statusText);
