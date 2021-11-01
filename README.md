@@ -1,4 +1,4 @@
-# Site Name : Travel Boss
+# Site Name : Sky-Traveler
 
 ## The third party modules that has been used-
 
@@ -18,16 +18,16 @@
 
 ## Live Link firebase
 
-https://travel-boss-client-b3b09.web.app/home
+https://hw-health-care-10.web.app/
 
 ## Code Link Clint site
 
-https://github.com/programming-hero-web-course1/tourism-or-delivery-website-client-side-aburaihan8721
+https://github.com/programming-hero-web-course1/tourism-or-delivery-website-client-side-khudroo
 
 
 ## Code Link Server site
 
-https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-aburaihan8721
+https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-khudroo
 
 
 ## Server Site Live Link Heroku
@@ -35,4 +35,5 @@ https://github.com/programming-hero-web-course1/tourism-or-delivery-website-serv
 ## Deployment
 
 - Firebase Hosting
+# tourism-or-delivery-website-client-side-khudroo
 # tourism-or-delivery-website-client-side-khudroo
