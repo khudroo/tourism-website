@@ -1,0 +1,16 @@
+#menu-area nav{
+    background-color: #3168bb;
+}
+
+#menu-area ul a{
+    text-transform: capitalize;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+}
+
+
+#menu-area ul a:hover{
+    color: white;
+    background-color: rgb(28, 53, 4);
+    border-radius: 5px;
+}

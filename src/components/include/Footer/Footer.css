@@ -1,0 +1,25 @@
+#footer-area {
+  background-color: #3168bb;
+}
+
+#footer-area ul {
+  list-style-type: none;
+}
+
+#footer-area ul a {
+  text-decoration: none;
+  color: white;
+}
+
+#footer-area .faIcon {
+  color: white;
+}
+
+#footer-area .custom-icon-border {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  background: #706fd3;
+  margin: 5px auto;
+}

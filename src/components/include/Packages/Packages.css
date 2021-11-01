@@ -1,0 +1,14 @@
+.packages-area{
+    background-color: #fff;
+}
+
+#packages-area img{
+
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+#packages-area .single-package{
+    height: 550px;
+}
